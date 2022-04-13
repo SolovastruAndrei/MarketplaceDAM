@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421807528719",
+    "project_id": "marketplacedam",
+    "storage_bucket": "marketplacedam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421807528719:android:6d1e1d15d6e4ebdfc0fc7a",
+        "android_client_info": {
+          "package_name": "com.example.android.marketplacedam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421807528719-pb08m19a2366gfaqs39163j3jbhbq7kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlTEFSyjgOVmyE2RxrrhQkKR5RLNp65Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421807528719-pb08m19a2366gfaqs39163j3jbhbq7kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
